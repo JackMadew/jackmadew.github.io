@@ -1,7 +1,6 @@
 ---
 title: "#1 Historic Sydney Retail Centres: Queen Victoria Building and the Strand"
-excerpt: "Daylight, Glare, Thermal Comfort Study<br/><img src='/images/QVB.png'>"
-excerpt: "Daylight, Glare, Thermal Comfort Study<br/><img src='/images/Strand.png'>"
+excerpt: "Daylight, Glare, Thermal Comfort Study<br/><img src='/images/QVB.png'><br/><img src='/images/Strand.png'>"
 collection: portfolio
 ---
 
