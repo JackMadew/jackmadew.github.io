@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "#1 Historic Sydney Retail Centres: Queen Victoria Building and the Strand"
+excerpt: "Daylight, Glare, Thermal Comfort Study<br/><img src='/images/QVB.png'>"
+excerpt: "Daylight, Glare, Thermal Comfort Study<br/><img src='/images/Strand.png'>"
 collection: portfolio
 ---
 
