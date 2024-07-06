@@ -16,9 +16,9 @@ Recent News
 [Click Here](https://www.linkedin.com/in/jack-madew-14814216b/)
 
 
-Portfolio Summary
+Portfolio Snapshot
 ======
-Test
+
 
 |  |  |  |
 |---|---|---|
@@ -33,6 +33,4 @@ Test
 
 
 
-| one | two | three |
-|---|---|---|
-| one | two | three |
+
