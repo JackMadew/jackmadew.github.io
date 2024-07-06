@@ -6,7 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About Me
+======
+I currently work as a Sustainability Engineer at [E-Lab](https://www.e-lab.com.au/our-people) a specialist consultancy at their Sydney Office. With my background in mechanical engineering and thermodynamics I specialise in building simulation to aid in architectural design and optimised outcomes for clients in cost, wellness and carbon impact. I have also worked across other aspects of sustainability including delivering sustainable ratings, energy estimation for compliance, embodied carbon, thermal comfort and daylight assessments. Overall, I relish the opportunity to explore further in sustainability and collaborate with the amazing people in this field.
 
+Recent News
+======
+[Click Here](https://www.linkedin.com/in/jack-madew-14814216b/)
+
+
+Portfolio Summary
+======
 |  |  |  |
 |---|---|---|
 | 8 Kippax St, Surry Hills – Green Star, NABERS, Parametric Facade, Solar, Mixed Mode and Natural Ventilation Studies | QVB, The Strand, The Galeries – Advanced thermal comfort, daylight and glare studies for centre skylights | 525 George St, Sydney – Natural Ventilation Assessment for Residential Development, Reflectivity Study |
