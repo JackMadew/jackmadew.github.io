@@ -19,9 +19,10 @@ Recent News
 Portfolio Summary
 ======
 Test
+
 |  |  |  |
 |---|---|---|
-| 8 Kippax St, Surry Hills – Green Star, NABERS, Parametric Facade, Solar, Mixed Mode and Natural Ventilation Studies | QVB, The Strand, The Galeries – Advanced thermal comfort, daylight and glare studies for centre skylights | 525 George St, Sydney – Natural Ventilation Assessment for Residential Development, Reflectivity Study |
+| 8 Kippax St, Surry Hills – Thermal Envelope Compliance, NABERS, Parametric, Solar, Mixed Mode and Natural Ventilation Studies | QVB, The Strand, The Galeries – Advanced thermal comfort, daylight and glare studies for centre skylights | 525 George St, Sydney – Natural Ventilation Assessment for Residential Development, Reflectivity Study |
 | 435 Bourke St, Melbourne – Façade impact on energy analysis | 24 Bay St, Double Bay – Thermal Envelope Compliance assessment for heritage commercial development | 8 Boorea St, Lidcombe – Green Star Buildings, Thermal Envelope Compliance, Energy for industrial Warehouses |
 | 270 Pitt St, Sydney – NABERS Energy and Water Assessments | CVC Capital, Barangaroo – Green Star Interiors Assessment | The Greens, Norwest Business Park – NatHERS Assessment Large Scale Residential |
 | Square Kilometre Array (SKA) – Data Centre Advanced HVAC Energy and Load Modelling | Jessie St Centre, Parramatta – Reflectivity Study, Sustainable Opportunities | Oran Park, Sydney – PV generation assessment, Thermal Comfort Study |
@@ -31,6 +32,7 @@ Test
 | Sydney Metro Western Sydney Airport – Heat resilience, glare and daylight analysis | TAFE NSW – WELL HSR Assessment |  |
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+| one | two | three |
+|---|---|---|
+| one | two | three |
