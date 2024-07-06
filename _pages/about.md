@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+|  |  |  |
+|---|---|---|
+| 8 Kippax St, Surry Hills – Section J, NABERS, Parametric, Solar, Mixed Mode and Natural Ventilation Studies | QVB, The Strand, The Galeries – Advanced thermal comfort, daylight and glare studies for centre skylights | 525 George St, Sydney – Natural Ventilation Assessment for Residential Development, Reflectivity Study |
+| 435 Bourke St, Melbourne – Façade impact on energy analysis | 24 Bay St, Double Bay – Section J assessment for heritage commercial development | 8 Boorea St, Lidcombe – Green Star Buildings, Section J, Energy for industrial Warehouses |
+| 270 Pitt St, Sydney – NABERS Energy and Water Assessments | CVC Capital, Barangaroo – Green Star Interiors Assessment | The Greens, Norwest Business Park – NatHERS Assessment Large Scale Residential |
+| Square Kilometre Array (SKA) – Data Centre Advanced HVAC Energy and Load Modelling | Jessie St Centre, Parramatta – Reflectivity Study, Sustainable Opportunities | Oran Park, Sydney – PV generation assessment, Thermal Comfort Study |
+| QEII Hospital, Brisbane – Section J, parametric façade study, energy modelling for Hospitals | Angliceare Bateau Bay Redevelopment – BASIX assessment aged care development | Avalon House, Sydney – High end sustainability for single dwelling |
+| Young Husband Wool Sheds Redevelopment, Kensington – NABERS Energy assessment | Yamba Community Precinct – Section J assessment for complex building geometry | Castle towers Office, Hotel, Shopping Centre, Castle Hills – NABERS Energy and Water, Natural Ventilation Study |
+| Bansktown Town Centre and Compass Centre, Bankstown – Sustainable master planning with site wind comfort study | St Vincent’s College, Potts Point – ESD opportunities analysis | St Ives Cultural Education Centre, St Ives – Thermal comfort and natural ventilation study |
+| Sydney Metro Western Sydney Airport – Heat resilience, glare and daylight analysis |  |  |
+<!--- 
 Test This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
@@ -43,6 +55,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+-->
 
 For more info
 ------
