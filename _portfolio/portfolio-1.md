@@ -13,9 +13,9 @@ Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
 Adaptive re-use of an existing building into a high quality commercial asset. <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3Qg15UU"> Parametric study </a> of existing facade design to optimise for daylight, glare, aesthetics, load and energy use. Biosolar roof, natural ventilated winter gardens and mixed mode operating conference meeting area.
 </p>
 <p align="center">
-<img src='../images/Kippax Render01.png' height ="400"> <img src='../images/Kippax Model01.png' height ="400">
+<img src='../images/Kippax Render01.png' width ="200"> <img src='../images/Kippax Model01.png' width ="260">
 
-<img src='../images/Para Kippax.png' width="500">
+<img src='../images/Para Kippax.png' width="400">
 </p>
 
 
@@ -77,9 +77,10 @@ Additional Rhino Tool Development
 Energy model development accelerated by using architectural models directly, extracting and simplifying windows and floorplate locations to deliver accurate energy and daylight models quickly.
 
 <p align="center">
-<img src='../images/ArchtoModelWorkflow.png' width="400">
-<img src='../images/Archmodel02.png' width="400">
-<img src='../images/Archmodel03.png' width="400">
+<img src='../images/ArchtoModelWorkflow.png' width="550">
+</p>
+<p align="center">
+<img src='../images/Archmodel02.png' width="250"> <img src='../images/Archmodel03.png' width="400">
 </p>
 
 Direct sunhours analysis using Ladybug tools for initial site analysis and facade recommendations
