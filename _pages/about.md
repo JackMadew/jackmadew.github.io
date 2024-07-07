@@ -15,10 +15,13 @@ I currently work as a Sustainability Engineer at [E-Lab](https://www.e-lab.com.a
 
 Recent News
 ======
-Groovy times at Green Building Day June last week! 
+20/06/24 - Groovy times at Green Building Day! 
 <img src='../images/GBDay1.png' width="500" height="500">
 
-[Click Here](https://www.linkedin.com/in/jack-madew-14814216b/)
+06/06/24 - Property Council of Australia Future Directions Lawn Bowls! 
+<img src='../images/FutureDirections01.jpg' width="500" height="330">
+
+[Click Here for more news](https://www.linkedin.com/in/jack-madew-14814216b/)
 
 
 Portfolio Snapshot
