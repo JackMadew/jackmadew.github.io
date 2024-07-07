@@ -30,4 +30,25 @@ Outdoor thermal comfort study with future climate projections to maintain resili
 Transport: Sydney Metro Western Sydney Airport Connection, 12 x Station Delivery, NSW
 ======
 Heat resilience, views, advanced glare and daylight analysis for multiple stations along Sydney Metro Line.
-<img src='../images/UTCI_QE2.png' width="500">
+
+<img src='../images/SSTOMM RENDER 1.png' width="300"> <img src='../images/SSTOMM RENDER 2.png' width="300">
+
+<img src='../images/SSTOM 1.gif' width="187"> <img src='../images/SSTOM 2.png' width="400"> <img src='../images/SSTOM 3.png' width="187">
+
+<img src='../images/SSTOM GIF 1.gif' width="234"> <img src='../images/SSTOM GIF 2.gif' width="250">
+
+Additional Rhino Tool Development
+======
+
+<img src='../images/Parametric Shot.png' width="400">
+
+<img src='../images/Archmodel02.png' width="400">
+<img src='../images/Archmodel03.png' width="400">
+
+<img src='../images/DirectSunHour01.png' width="400">
+
+<img src='../images/CFD Example Outdoor with legend 2.png' width="400">
+
+<img src='../images/Solar01.png' width="400">
+
+<img src='../images/Wind mesh 2.png' width="400">
