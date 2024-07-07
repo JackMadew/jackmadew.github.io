@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 <p align="justify">
-I currently work as a Sustainability Engineer at [E-Lab](https://www.e-lab.com.au/our-people) a specialist consultancy at their Sydney Office. With my background in mechanical engineering and thermodynamics I specialise in building simulation to aid in architectural design and optimised outcomes for clients in cost, wellness and carbon impact. I have also worked across other aspects of sustainability including delivering sustainable ratings, energy estimation for compliance, embodied carbon, thermal comfort and daylight assessments. Overall, I relish the opportunity to explore further in sustainability and collaborate with the amazing people in this field.
+I currently work as a Sustainability Engineer at <a href=https://www.e-lab.com.au/our-people>E-Lab</a> a specialist consultancy at their Sydney Office. With my background in mechanical engineering and thermodynamics I specialise in building simulation to aid in architectural design and optimised outcomes for clients in cost, wellness and carbon impact. I have also worked across other aspects of sustainability including delivering sustainable ratings, energy estimation for compliance, embodied carbon, thermal comfort and daylight assessments. Overall, I relish the opportunity to explore further in sustainability and collaborate with the amazing people in this field.
 </p>
 
 Recent News
