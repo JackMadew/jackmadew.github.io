@@ -13,7 +13,7 @@ Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
 Adaptive re-use of an existing building into a high quality commercial asset. <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3Qg15UU"> Parametric study </a> of existing facade design to optimise for daylight, glare, aesthetics, load and energy use. Biosolar roof, natural ventilated winter gardens and mixed mode operating conference meeting area.
 </p>
 
-<img src='../images/Kippax Render01.png' height ="400" > <img src='../images/Kippax Model01.png' height ="400" >
+<img src='../images/Kippax Render01.png' height ="400"><img src='../images/Kippax Model01.png' height ="400">
 <p align="center">
 <img src='../images/Para Kippax.png' width="500">
 </p>
@@ -82,12 +82,15 @@ Additional Rhino Tool Development
 
 <img src='../images/DirectSunHour01.png' width="400">
 
-<img src='../images/CFD Example Outdoor with legend 2.png' width="400">
-
-</p>
 <img src='../images/Solar01.png' width="400">
 
+<img src='../images/CFD Example Outdoor with legend 2.png' width="400">
 <img src='../images/Wind mesh 2.png' width="400">
+
+</p>
+
+
+
 
 
 
