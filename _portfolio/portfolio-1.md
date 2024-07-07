@@ -23,7 +23,7 @@ Adaptive re-use of an existing building into a high quality commercial asset. <a
 Historic Retail: Queen Victoria Building and the Strand, Sydney, NSW
 ======
 <p align="justify">
-Daylight and glare modelling study of potential skylight improvement scenarios to heritage shopping centres. Including thermal comfort analysis on multiple floors with impact of future climate scenario modelled. 
+Daylight and glare modelling study of potential skylight improvement scenarios to heritage shopping centres. Including thermal comfort analysis on multiple floors with impact of future climate scenarios modelled. 
 </p>
 
 <p align="center">
@@ -57,6 +57,7 @@ Transport: Sydney Metro Western Sydney Airport Connection, 12 x Station Delivery
 ======
 <p align="justify">
 Heat resilience, views, advanced glare and daylight analysis for multiple stations along Sydney Metro Line.
+Complex perspective glare modelling at key station areas led to more comfortable spaces from a more diffusive facade design.(Shout out to Jordan Janos for his incredible development of the original scripts!)
 </p>
 
 <p align="center">
