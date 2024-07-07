@@ -10,7 +10,7 @@ redirect_from:
 Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
 ======
 <p align="justify">
-Adaptive re-use of an existing building into a high quality commercial asset. <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3Qg15UU"> Parametric study </a> of existing facade design to optimise for daylight, glare, aesthetics, load and energy use. Biosolar roof, natural ventilated winter gardens and mixed mode operating conference meeting area.
+Adaptive re-use of an existing building into a high quality commercial asset. <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3Qg15UU"> Parametric study</a> of existing facade design to optimise for daylight, glare, aesthetics, load and energy use. Biosolar roof, natural ventilated winter gardens and mixed mode operating conference meeting area.
 </p>
 <p align="center">
 <img src='../images/Kippax Render01.png' width ="200"> <img src='../images/Kippax Model01.png' width ="260">
@@ -43,7 +43,7 @@ Large scale hospital expansion in Brisbane Queensland. Delivering on NABERS Ener
 <img src='../images/QE2 Render.png' width="500"> 
 </p>
 
-Optimised facade through <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3KZzcgI"> parametric study </a> with considerations for glare, load and daylight access. 
+Optimised facade through <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3KZzcgI"> parametric study</a> with considerations for glare, load and daylight access. 
 <p align="center">
 <img src='../images/ParametricQE2.png' width="500">
 </p>
