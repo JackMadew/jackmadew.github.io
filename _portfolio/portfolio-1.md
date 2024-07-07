@@ -12,9 +12,9 @@ Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
 <p align="justify">
 Adaptive re-use of an existing building into a high quality commercial asset. <a href="https://tt-acm.github.io/DesignExplorer/?ID=BL_3Qg15UU"> Parametric study </a> of existing facade design to optimise for daylight, glare, aesthetics, load and energy use. Biosolar roof, natural ventilated winter gardens and mixed mode operating conference meeting area.
 </p>
-
-<img src='../images/Kippax Render01.png' height ="400"><img src='../images/Kippax Model01.png' height ="400">
 <p align="center">
+<img src='../images/Kippax Render01.png' height ="400"> <img src='../images/Kippax Model01.png' height ="400">
+
 <img src='../images/Para Kippax.png' width="500">
 </p>
 
@@ -74,31 +74,33 @@ Heat resilience, views, advanced glare and daylight analysis for multiple statio
 Additional Rhino Tool Development
 ======
 
-<p align="center">
-
 Energy model development accelerated by using architectural models directly, extracting and simplifying windows and floorplate locations to deliver accurate energy and daylight models quickly.
 
+<p align="center">
 <img src='../images/ArchtoModelWorkflow.png' width="400">
 <img src='../images/Archmodel02.png' width="400">
 <img src='../images/Archmodel03.png' width="400">
+</p>
 
 Direct sunhours analysis using Ladybug tools for initial site analysis and facade recommendations
-
+<p align="center">
 <img src='../images/DirectSunHour01.png' width="400">
+</p>
 
 Solar Array generator developed in Rhino with automatic sizing and in-built radiation analysis
-
+<p align="center">
 <img src='../images/Solar01.png' width="400">
+</p>
 
 Wind studies using OpenFOAM CFD within Rhino
-
+<p align="center">
 <img src='../images/CFD Example Outdoor with legend 2.png' width="400">
 <img src='../images/Wind mesh 2.png' width="400">
+</p>
 
 Small parametric studies with 2 sets of input parameters
-
+<p align="center">
 <img src='../images/Parametric Shot.png' width="400">
-
 </p>
 
 
