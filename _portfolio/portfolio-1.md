@@ -75,17 +75,29 @@ Additional Rhino Tool Development
 ======
 
 <p align="center">
-<img src='../images/Parametric Shot.png' width="400">
 
+Energy model development accelerated by using architectural models directly, extracting and simplifying windows and floorplate locations to deliver accurate energy and daylight models quickly.
+
+<img src='../images/ArchtoModelWorkflow.png' width="400">
 <img src='../images/Archmodel02.png' width="400">
 <img src='../images/Archmodel03.png' width="400">
 
+Direct sunhours analysis using Ladybug tools for initial site analysis and facade recommendations
+
 <img src='../images/DirectSunHour01.png' width="400">
+
+Solar Array generator developed in Rhino with automatic sizing and in-built radiation analysis
 
 <img src='../images/Solar01.png' width="400">
 
+Wind studies using OpenFOAM CFD within Rhino
+
 <img src='../images/CFD Example Outdoor with legend 2.png' width="400">
 <img src='../images/Wind mesh 2.png' width="400">
+
+Small parametric studies with 2 sets of input parameters
+
+<img src='../images/Parametric Shot.png' width="400">
 
 </p>
 
