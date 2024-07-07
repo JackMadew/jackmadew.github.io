@@ -1,3 +1,8 @@
+---
+title: "Portfolio Highlights"
+excerpt: ""
+collection: portfolio
+---
 
 Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
 ======
