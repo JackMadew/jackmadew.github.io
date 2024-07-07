@@ -15,6 +15,9 @@ I currently work as a Sustainability Engineer at [E-Lab](https://www.e-lab.com.a
 
 Recent News
 ======
+Groovy times at Green Building Day June last week! 
+<img src='../images/GBDay1.png' width="500" height="500">
+
 [Click Here](https://www.linkedin.com/in/jack-madew-14814216b/)
 
 
