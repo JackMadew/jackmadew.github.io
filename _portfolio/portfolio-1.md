@@ -1,10 +1,10 @@
 ---
-permalink: /portfolio/
+layout: archive
 title: ""
+permalink: /portfolio/
 author_profile: true
-redirect_from: 
-  - /portfolio/
-  - /portfolio.html
+redirect_from:
+  - /portfolio
 ---
 
 Commercial: 8 Kippax St, Surry Hills, Sydney, NSW
