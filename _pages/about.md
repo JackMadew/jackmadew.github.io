@@ -25,7 +25,7 @@ Recent News
   Natural Gas vs Electric Heat Pump Comparison
   <img src='../images/NatGasVSheatpump.png'  height="500">
   
-  <a href='../files/report.html'>Parametric Study of Luften and Future Climate Scenarios:</a>
+  <a href='../files/Parametric Report 2025-01-16_13-39-31/report.html'>Boston House Parametric Study of the Effects of Luften and Future Climate Scenarios:</a>
   
 
 20/12/24 - Tree Shopping in the Snow! 
