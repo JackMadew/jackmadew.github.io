@@ -16,16 +16,17 @@ I currently work as a Sustainability Engineer at <a href="https://www.e-lab.com.
 Recent News
 ======
 09/01/2025 - Nothing like arriving in a new climate to run a IES Thermal Model of your own apartment: 
-Rhino Model
-<img src='../images/Harvard Model Pic.png' height="500">
-IESVE from Rhino Export
-<img src='../images/IES Model.png' height="500">
-Energy Results
-<img src='../images/MonthlyConsumption.png'  height="500">
-Future Climate Results
-<img src='../images/GBDay1.png'  height="500">
-Natural Gas vs Electric Heat Pump Comparison
-<img src='../images/NatGasVSheatpump.png'  height="500">
+  Rhino Model
+  <img src='../images/Harvard Model Pic.png' height="500">
+  IESVE from Rhino Export
+  <img src='../images/IES Model.png' height="500">
+  Energy Results
+  <img src='../images/MonthlyConsumption.png'  height="500">
+  Natural Gas vs Electric Heat Pump Comparison
+  <img src='../images/NatGasVSheatpump.png'  height="500">
+  
+  <a href='../files/report.html'>Parametric Study of Luften and Future Climate Scenarios:</a>
+  
 
 20/12/24 - Tree Shopping in the Snow! 
 <img src='../images/Boston_Christmas.jpeg' height="500">
