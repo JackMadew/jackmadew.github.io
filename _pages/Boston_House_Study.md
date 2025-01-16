@@ -9,7 +9,7 @@ redirect_from:
 Charlestown, Boston Thermal Model 
 ======
 <p align="justify">
-This is a short study I ran in my downtime to familiarize myself with the Climate of Boston, local building standards and the new parametric function on IES. The small project was also used to analyse the effectiveness of heat pump vs natural gas furnace heating as well as optimal operation of our heater in terms of setpoint and schedule. The parametric study analysed future climate weather files for the region as well as the German custom of "Luften" (Permumtations 4,5,6).
+This is a short study I ran in my downtime to familiarize myself with the Climate of Boston, local building standards and the new parametric function on IES. The small project was also used to analyse the effectiveness of heat pump vs natural gas furnace heating as well as optimal operation of our heater in terms of setpoint and schedule. The parametric study analysed future climate weather files for the region as well as the German custom of "Luften".
 </p>
 
 Rhino Model
@@ -21,30 +21,30 @@ Initially used to see if furniture could fit in our house, developed into the ho
 
 IESVE Model:
 ======
-Rhino honeybee model exported into IES using Pollination suite of tools. Envelope thermal constructions sourced from the ASHRAE. Greenstar apartment templates used for internal gains and schedules. HVAC system: CAV FCU with central heat pumps and chillers. </br>
+Rhino honeybee model exported into IES using Pollination suite of tools. Envelope thermal constructions sourced from the ASHRAE. Greenstar apartment templates used for internal gains and schedules. HVAC system: CAV FCU with central heat pumps and chillers.<br/><br/>
 <p align="center">
   <img src='../images/IES Model.png' width="50%">
 </p>
  
 Monthly Energy Results from IES:
 ======
-To be used to target efficiency measure and to benchmark agaisnt energy bills :P. </br>
+To be used to target efficiency measure and to benchmark agaisnt energy bills :P.<br/><br/>
 <p align="center">
   <img src='../images/MonthlyConsumption.png'  width="80%">
 </p>
  
 Natural Gas vs Electric Heat Pump Comparison:
 ======
-Hypothetical scenario of if our house had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.</br>
+Hypothetical scenario of if our house had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.
 _Cost data from US Bureau of Labor Statistics, 2024. Cost data does not include fixed rates for gas and electricity service.
-Emissions data from US Energy Information Administration, 2023_</br>
+Emissions data from US Energy Information Administration, 2023_<br/><br/>
 <p align="center">
   <img src='../images/NatGasVSheatpump.png'  width="50%">
 </p>
 
 Parametric Study of the Effects of Luften and Future Climate Scenarios:
 ======
-Understandbly luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home.
+Understandbly luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home. <br/><br/>
 <a href='../files/Parametric Report 2025-01-16_13-39-31/report.html'>Link to Parallel Axis and Stacked Plots </a>
 
   
