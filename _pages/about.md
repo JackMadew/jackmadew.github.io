@@ -19,24 +19,25 @@ Recent News
 
   <a href='/Boston_House_Study/'>Boston House Study</a>
   
-
 20/12/24 - Tree Shopping in the Snow! 
 
-<img src='../images/Boston_Christmas.jpeg' height="500">
+<img src='../images/Boston_Christmas.jpeg' width ="50%">
 
 25/11/24 - Arriving in Boston! 
 
-<img src='../images/Boston_MIT.jpg' height="500">
+<img src='../images/Boston_MIT.jpg' width ="50%">
 
 15/11/24 - Arriving in America, quick stop through Honolulu! 
 
-<img src='../images/Honolulu.jpeg' height="500">
+<img src='../images/Honolulu.jpeg' width ="50%">
 
 20/06/24 - Groovy times at Green Building Day! 
-<img src='../images/GBDay1.png' width="500" height="500">
+
+<img src='../images/GBDay1.png' width ="50%">
 
 06/06/24 - Property Council of Australia Future Directions Lawn Bowls! 
-<img src='../images/FutureDirections01.jpg' width="500" height="330">
+
+<img src='../images/FutureDirections01.jpg' width ="50%">
 
 [Click Here for more news](https://www.linkedin.com/in/jack-madew-14814216b/)
 
