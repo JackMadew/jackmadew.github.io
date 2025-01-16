@@ -26,26 +26,26 @@ Rhino honeybee model exported into IES using Pollination suite of tools. Envelop
   <img src='../images/IES Model.png' width="50%">
 </p>
  
-  Monthly Energy Results from IES:
-  ======
-  To be used to target efficiency measure and to benchmark agaisnt energy bills :P. </br>
- <p align="center">
+Monthly Energy Results from IES:
+======
+To be used to target efficiency measure and to benchmark agaisnt energy bills :P. </br>
+<p align="center">
   <img src='../images/MonthlyConsumption.png'  width="80%">
 </p>
  
-  Natural Gas vs Electric Heat Pump Comparison:
-  ======
-  Hypothetical scenario of if our house had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.</br>
-  _Cost data from US Bureau of Labor Statistics, 2024. Cost data does not include fixed rates for gas and electricity service.
-  Emissions data from US Energy Information Administration, 2023_</br>
-   <p align="center">
+Natural Gas vs Electric Heat Pump Comparison:
+======
+Hypothetical scenario of if our house had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.</br>
+_Cost data from US Bureau of Labor Statistics, 2024. Cost data does not include fixed rates for gas and electricity service.
+Emissions data from US Energy Information Administration, 2023_</br>
+<p align="center">
   <img src='../images/NatGasVSheatpump.png'  width="50%">
 </p>
 
-  Parametric Study of the Effects of Luften and Future Climate Scenarios:
-  ======
-  Understandbly luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home.
-  <a href='../files/Parametric Report 2025-01-16_13-39-31/report.html'>Link to Parallel Axis and Stacked Plots </a>
+Parametric Study of the Effects of Luften and Future Climate Scenarios:
+======
+Understandbly luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home.
+<a href='../files/Parametric Report 2025-01-16_13-39-31/report.html'>Link to Parallel Axis and Stacked Plots </a>
 
   
 
