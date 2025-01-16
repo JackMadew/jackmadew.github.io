@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Boston House Study"
+    url: /Boston_House_Study/
     
   # - title: "People"
   #  url: /markdown/
