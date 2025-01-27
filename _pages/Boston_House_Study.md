@@ -21,21 +21,24 @@ Initially used to see if furniture could fit in our house, developed into the ho
 
 IESVE Model:
 ======
-Rhino honeybee model exported into IES using Pollination suite of tools. Envelope thermal constructions sourced from the ASHRAE. Greenstar apartment templates used for internal gains and schedules. HVAC system: CAV FCU with central heat pumps and chillers.<br/><br/>
+<p align="justify">
+Rhino honeybee model exported into IES using Pollination suite of tools. Envelope thermal constructions sourced from the ASHRAE. Greenstar apartment templates used for internal gains and schedules. HVAC system: Wall FCU with central heat pumps and air cooled chillers.<br/><br/>
+</p>
+
 <p align="center">
   <img src='../images/IES Model.png' width="50%">
 </p>
  
 Monthly Energy Results from IES:
 ======
-To be used to target efficiency measure and to benchmark agaisnt energy bills :P.<br/><br/>
+To be used to target efficiency measure and to benchmark against energy bills :P.<br/><br/>
 <p align="center">
   <img src='../images/MonthlyConsumption.png'  width="80%">
 </p>
  
 Natural Gas vs Electric Heat Pump Comparison:
 ======
-Hypothetical scenario of if our house had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.
+A hypothetical study of the cost and emissions of our house if we had natural gas heating as it had previously. Gas heating would have been 34% cheaper per year, but would have emitted 208% more CO2 to run.
 _Cost data from US Bureau of Labor Statistics, 2024. Cost data does not include fixed rates for gas and electricity service.
 Emissions data from US Energy Information Administration, 2023_<br/><br/>
 <p align="center">
@@ -44,7 +47,10 @@ Emissions data from US Energy Information Administration, 2023_<br/><br/>
 
 Parametric Study of the Effects of Luften and Future Climate Scenarios:
 ======
-Understandbly luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home. <br/><br/>
+<p align="justify">
+Coming from a temperate environment without a real need for heating, I thought I should test out the new IES parametric tool on the German concept of "Luften" for our Boston home. Understandably luften vastly increased the heating requirements of the home (approximately $150 extra a year in electricity costs), but led to consistently low CO2 levels in an occupied home. <br/><br/>
+</p>
+
 <a href='../files/Parametric Report 2025-01-16_20-35-24/report.html'>Link to Parallel Axis and Stacked Plots </a>
 
   
